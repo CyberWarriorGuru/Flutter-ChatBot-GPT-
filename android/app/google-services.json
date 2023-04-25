@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625294876436",
+    "project_id": "nexusapp-c8283",
+    "storage_bucket": "nexusapp-c8283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625294876436:android:202a110101ce7bb7882c01",
+        "android_client_info": {
+          "package_name": "com.nexusapp.flutter_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625294876436-qiqag63alkhg144v0tbjf5hfatg1rkbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDycBiLsa3dLbdalDylg3BlfLy8cZMjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625294876436-qiqag63alkhg144v0tbjf5hfatg1rkbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
